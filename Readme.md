@@ -1,18 +1,18 @@
 Readme
 ================
-2026-04-07
+2026-10-05
 
-# Juselius_backdoor
+# Juselius_secretdoor
 
 ![](coauthorship_plot.png)
 
-**Juselius_backdoor** is an R pipeline for constructing and analyzing
+**Juselius_secretdoor** is an R pipeline for constructing and analyzing
 coauthorship networks of **Sigrid Juselius Foundation** grantees using
 **OpenAlex author IDs**. It extracts authors from a text file, resolves
 their OpenAlex IDs, retrieves their publications, and builds a weighted
 coauthorship network.
 
-## [View Interactive version of this plot](https://jafarilab.github.io/Juselius_backdoor/interactive_plot.html)
+## [View Interactive version of this plot](https://jafarilab.github.io/Juselius_secretdoor/interactive_plot.html)
 
 ## Features
 
@@ -125,7 +125,7 @@ Top 3 Researchers per Community:
 | Toppari Jorma           |    3795 |        13 |
 | Hyöty Heikki            |    3224 |        13 |
 
-## [View Interactive Co-authorship Network](https://jafarilab.github.io/Juselius_backdoor/network.html)
+## [View Interactive Co-authorship Network](https://jafarilab.github.io/Juselius_secretdoor/network.html)
 
 ## ⚠️ Notes & Limitations
 

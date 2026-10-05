@@ -91,7 +91,7 @@ if(file.exists("top3_per_community.csv")){
 ```
 
 
-[View Interactive Co-authorship Network](https://jafarilab.github.io/Juselius_backdoor/network.html)
+[View Interactive Co-authorship Network](https://jafarilab.github.io/Juselius_secretdoor/network.html)
 ---
 
 ## ⚠️ Notes & Limitations
